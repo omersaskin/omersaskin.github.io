@@ -1,5 +1,0 @@
-# Yönlendirmeleri aktif eder
-RewriteEngine on
-
-# Sayfaya yönlendirme yapıyoruz
-DirectoryIndex index.html
